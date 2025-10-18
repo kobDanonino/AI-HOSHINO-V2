@@ -42,5 +42,5 @@
   <a href="limlimstar32@gmail.com">
     <img
 
-# 𝗧𝗲𝗿𝗺𝘂𝘅
+# instalación por termux
 

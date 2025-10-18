@@ -47,6 +47,6 @@
   <a href="limlimstar32@gmail.com">
     <img
 
-# 𝗦𝗼𝗽𝗼𝗿𝘁 𝗔𝗶 𝗛𝗼𝘀𝗵𝗶𝗻𝗼
 
+# instalación por termux
 

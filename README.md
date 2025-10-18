@@ -46,6 +46,4 @@
 <p align="center">
   <a href="limlimstar32@gmail.com">
     <img
-
-
- # instalación por termux 
+# 𝗔𝗶 𝗛𝗢𝗦𝗛𝗜𝗡𝗢 ✰

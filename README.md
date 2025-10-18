@@ -36,4 +36,8 @@
 ---
 
 # 𝗥𝗼𝘅𝘆'𝘀 𝗧𝗲𝗮𝗺
+<p align="center">
+  <img src="https://i.postimg.cc/SszW6FHr/images-3.jpg" width="200px" />
+</p>
+
 [![Canal](https://img.shields.io/badge/Canal-WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBlsQ63AzNOHxBtKA3A)

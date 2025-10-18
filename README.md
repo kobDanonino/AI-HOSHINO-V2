@@ -36,16 +36,11 @@
 ---
 
 # 𝗥𝗼𝘅𝘆'𝘀 𝗧𝗲𝗮𝗺
-<p align="center">
-  <img src=
-"https://i.postimg.cc/VvJLrmTy/Airbrush-Image-Enhancer-1760756059556.jpg" width="190px" />
-</p>
-
 
 [![Canal](https://img.shields.io/badge/Canal-WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBlsQ63AzNOHxBtKA3A)
 <p align="center">
   <a href="limlimstar32@gmail.com">
     <img
 
-# 𝗜𝗻𝘀𝘁𝗮𝗹𝗮𝗰𝗶𝗼́𝗻 𝗽𝗼𝗿 𝗧𝗲𝗿𝗺𝘂𝘅
+# 𝗧𝗲𝗿𝗺𝘂𝘅
 

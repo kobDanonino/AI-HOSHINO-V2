@@ -1,4 +1,4 @@
-# AI-HOSHINO-V2
+# 𝗦𝗶 𝗛𝗢𝗦𝗛𝗜𝗡𝗢 ✰
 © 𝘿𝙖𝙣𝙤𝙣𝙞𝙣𝙤
 
 <p align="center">

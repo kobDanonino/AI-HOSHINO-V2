@@ -2,7 +2,7 @@
 © 𝘿𝙖𝙣𝙤𝙣𝙞𝙣𝙤
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=8A2BE2&center=true&vCenter=true&width=435&lines=𝐀𝐢+𝐇𝐨𝐬𝐡𝐢𝐧𝐥+⭐;©𝐏𝐨𝐰𝐞𝐫+𝐁𝐲+𝐃𝐚𝐧𝐨𝐧𝐢𝐧𝐨+🌸;𝐁𝐨𝐭+𝐞𝐧+𝐝𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐨+🌸;𝐃𝐞𝐣𝐚+𝐭𝐮+𝐞𝐬𝐭𝐫𝐞𝐥𝐥𝐢𝐭𝐚+⭐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=8A2BE2&center=true&vCenter=true&width=435&lines=𝐀𝐢+𝐇𝐨𝐬𝐡𝐢𝐧𝐨+⭐;©𝐏𝐨𝐰𝐞𝐫+𝐁𝐲+𝐃𝐚𝐧𝐨𝐧𝐢𝐧𝐨+🌸;𝐁𝐨𝐭+𝐞𝐧+𝐝𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐨+🌸;𝐃𝐞𝐣𝐚+𝐭𝐮+𝐞𝐬𝐭𝐫𝐞𝐥𝐥𝐢𝐭𝐚+⭐" alt="Typing SVG" />
 </p>
 
 <p align="center">

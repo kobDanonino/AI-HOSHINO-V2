@@ -42,3 +42,5 @@
   <a href="limlimstar32@gmail.com">
     <img                                       # instalación por termux
 
+`npm node bash`
+gitclone kobDanonino/Ai-Hoshino-V2

@@ -35,6 +35,5 @@
 
 ---
 
-# 𝘾𝘼𝙉𝘼𝙇 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 𑂱  𑂱 𑂱  𑂱  𑂱 𑂱 𑂱  𑂱✌︎˶╹ꇴ╹˶✌︎ 
-
+# 𝗥𝗼𝘅𝘆'𝘀 𝗧𝗲𝗮𝗺 𝗖𝗵𝗮𝗻𝗻𝗲𝗹
 [![Canal](https://img.shields.io/badge/Canal-WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBWiQnDjiOZI4PeC20s)

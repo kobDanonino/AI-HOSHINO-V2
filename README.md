@@ -48,4 +48,4 @@
     <img
 
 
-# Soporte
+ # instalación por termux 

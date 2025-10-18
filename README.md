@@ -28,7 +28,7 @@
 
 ---
 
-# 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎 ˃ 𖥦 ˂`
+# 𝗚𝗿𝘂𝗽𝗼 𝗼𝗳𝗶𝗰𝗶𝗮𝗹𝗲𝘀
 
 [![Grupo 1](https://img.shields.io/badge/Grupo_1-WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HIOAhMxbxg6Hnp5gHkY0pT)  
 [![Grupo 2](https://img.shields.io/badge/Grupo_2-WhatsApp-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JI6zZ6hd8VA3xQwOdslcv9)

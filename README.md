@@ -48,5 +48,3 @@
     <img
 
 
-# instalación por termux
-

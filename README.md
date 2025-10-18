@@ -46,9 +46,8 @@
 <p align="center">
   <a href="limlimstar32@gmail.com">
     <img
-
-# Soporte de ai hoshino
- src="https://img.shields.io/badge/Gmail-Roxy's Team-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+# 𝗦𝗼𝗽𝗼𝗿𝘁 𝗔𝗶 𝗛𝗼𝘀𝗵𝗶𝗻𝗼
+src="https://img.shields.io/badge/Gmail-Roxy's Team-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a
 

@@ -65,4 +65,4 @@
 
 </details>
 
-| ✅ **Colaboradores** | *Conoce a los implicados que hacen posible este proyecto.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/kobDanonino/Ai-Hoshino/graphs/contributors) |
+| ✅ **Colaboradores** | *Conoce a los implicados que hacen posible este proyecto.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/kobDanonino/AI-HOSHINOV2/graphs/contributors) |

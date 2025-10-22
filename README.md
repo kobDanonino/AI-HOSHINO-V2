@@ -47,9 +47,6 @@
 <p align="center">
   <a href="limlimstar32@gmail.com">
     <img
-
-
-<summary><b>☁️ Sky Ultra Plus</b></summary>
   
 [![YouTube](https://img.shields.io/badge/SkyUltraPlus-Host-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fZbcCLpSH6Y?si=1sDen7Bzmb7jVpAI)
 
@@ -67,3 +64,5 @@
 - **Discord:** [`SkyUltraPlus`](https://discord.gg/6saUm5cw)
 
 </details>
+
+| ✅ **Colaboradores** | *Conoce a los implicados que hacen posible este proyecto.* | [![Here](https://img.shields.io/badge/Aquí-green)](https://github.com/kobDanonino/Ai-Hoshino/graphs/contributors) |

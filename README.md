@@ -48,6 +48,7 @@
   <a href="limlimstar32@gmail.com">
     <img
 
+
 <summary><b>☁️ Sky Ultra Plus</b></summary>
   
 [![YouTube](https://img.shields.io/badge/SkyUltraPlus-Host-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fZbcCLpSH6Y?si=1sDen7Bzmb7jVpAI)
@@ -64,7 +65,5 @@
 - **Comunidad:** [`Aquí`](https://chat.whatsapp.com/E6iWpvGuJ8zJNPbN3zOr0D)
 - **Contacto(s):** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
 - **Discord:** [`SkyUltraPlus`](https://discord.gg/6saUm5cw)
-
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - GataBot-MD**</summary><img src="https://stellarwa.xyz/files/1757772557546.jpeg"></details>
 
 </details>
